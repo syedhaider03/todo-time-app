@@ -1,0 +1,205 @@
+/* body {
+  padding : 10px ;
+  
+} */
+/* ::placeholder { 
+  color: red;
+  opacity: 1; 
+} */
+
+/* .buttn{
+  float: right;
+  margin-right: 200px;
+  /* margin-top: -50px; }*/
+ 
+.lbl{
+  color: rgb(8, 8, 8);
+  text-shadow: 4px 4px 8px #faf8f8;   font-size:20px;
+   /* font-style: italic; */
+   font-family:Arial;
+   text-transform: capitalize;
+   /* text-transform: uppercase */
+
+}
+/* .spn{
+  color: black;
+   font-size:15px;
+
+
+} */
+
+.item{
+  /* background-color:white; */
+  border-width: 1px;
+  border-color:grey;
+  border-bottom-style : solid;
+  /* box-shadow: 5px 5px 5px grey; */
+  /* margin-bottom: 2px; */
+  /* margin-top: 2px; */
+  /* width: 96%; */
+  /* margin-left: 2% */
+
+}
+#uncontrolled-tab-example  {
+  /* padding : 5px 25%; */
+  /* margin-left: 25%; */
+  border-width: 1px;
+  border-style: solid;
+  width: 58%;
+  height: 455px;
+  border-color:rgb(187, 184, 184);
+  /* align-items: center */
+  /* background-image: image("./bg.jpg") */
+  float: right;
+  /* margin-top: -350px */
+  margin-right: 10px;
+  box-shadow: 10px 10px 5px grey;
+  /* background-color: rgb(21, 211, 211) */
+  position: sticky;
+  overflow-y: scroll;
+
+}
+
+#inptodo{
+  width: 90%;
+  /* margin-left: 23%; */
+
+
+}
+#l1{
+  font-size: 30px;
+  color: darkcyan
+}
+#inptodo2{
+  width: 50%;
+  float:left;
+}
+#inptodo3,#lit {
+  width: 35%;
+  float:left;
+  margin-left: 5%;
+}
+ 
+#angle1 {
+  /* margin-left:50px; */
+margin-right: -4px
+}
+#angle2 {
+  margin-left: -4px
+  }
+
+#additems{
+  border-color: rgb(187, 184, 184);
+  border-width: 1px;
+  border-style: solid;
+width: 40%;
+/* margin-left: 25%; */
+/* height: 200px; */
+float: left;
+box-shadow: 10px 10px 5px grey;
+margin-left: 5px;
+
+
+}
+
+/* 
+#foot{
+  margin-top: -500px
+} */
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: darkcyan; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background:lightblue; 
+}
+
+#delbtn{
+  /* font-size: 15px; */
+  width: 10%;
+  float: right;
+  margin-top: -34px;
+
+   margin-left: 89.8%
+}
+
+#editbtn{
+  /* font-size: 15px; */
+  width: 10%;
+  /* float: right;
+   */
+   /* margin-right: 50%; */
+   float: left;
+   margin-top: -34px;
+   margin-left: 79%;
+}
+
+/* .tabt{
+  position: sticky;
+  width: 5px;
+
+} */
+
+#mbody{
+height: 200px;
+}
+
+#mtable{
+  font-size: 30px;
+  width: 100%
+}
+
+#mlabel{
+  font-size: 15px;
+
+}
+
+#inpm{
+  width: 95%;
+  height: 30px;
+  font-size:14px;
+  /* margin-right: -200px */
+
+}
+
+#timerdiv{
+  /* float: right; */
+  margin-top: 10px;
+
+}
+
+#spantimerd{
+  font-size: 22px;
+  font-weight: bold;
+}
+#spantimerh{
+  font-size: 17px;
+  font-weight: bold;
+}
+#spantimerm{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#btntimer{
+text-transform: capitalize;
+}
+.pt{
+  font-size: 15px;
+  text-transform: capitalize;
+  color: black
+}
